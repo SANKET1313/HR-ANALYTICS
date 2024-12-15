@@ -1,0 +1,38 @@
+The HR Analytics Dashboard provides a visual overview of employee turnover, or attrition, within an organization.
+
+
+Key Metrics:
+Total Employees: 446
+
+This indicates the total number of employees currently in the organization.
+Attrition Count: 92
+
+This shows how many employees have left the organization within a certain timeframe.
+Attrition Rate: 20.6%
+
+This percentage indicates the proportion of employees leaving compared to the total workforce. A higher rate may suggest issues that need to be addressed.
+Average Age: 37
+
+Provides insight into the demographic age profile of employees, which can help in understanding generational factors in retention.
+Average Salary: $7,000
+
+Helps assess the compensation structure within the organization.
+
+Attrition Insights:
+
+Attrition by Education:
+
+Education Levels: A breakdown reveals how attrition varies by educational background, with Marketing graduates having the highest attrition (38%), followed by Life Sciences (32%).
+This suggests that employees from certain educational backgrounds may be more likely to leave, prompting further analysis on job satisfaction or fit.
+
+Age Group Analysis:
+
+The graph shows the number of employees leaving by age group, with the highest attrition observed in the 26-35 age range (41 employees). This demographic may need targeted engagement strategies to improve retention.
+
+Job Roles:
+
+Attrition rates vary by job role, with Sales Executives experiencing the highest turnover (57), suggesting potential issues with job satisfaction, workload, or other factors specific to that role.
+
+Years at Company:
+
+Insights into how long employees stay before leaving indicate that many employees who stay less than five years are at higher risk of leaving. This could inform retention strategies aimed at newer employees.
